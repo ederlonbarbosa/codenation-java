@@ -5,6 +5,7 @@ target/
 !**/src/test/**
 *.class
 stdout.txt
+*/bin/*
 
 ### STS ###
 .apt_generated
